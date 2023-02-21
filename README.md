@@ -9,3 +9,4 @@ FireTVStick4KMax　SettingUp<br>
 
 https://youtu.be/wg-wCD1rxVs
 ![](/FireTV.m4v)
+
