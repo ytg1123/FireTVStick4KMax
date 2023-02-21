@@ -1,6 +1,8 @@
 # FireTVStick4KMax
 FireTVStick4KMax　SettingUp<br>
 
+FireTVStick4KMaxをUSBハブ拡張し有線LAN化しストレージも追加で拡張します<br>
+
 ■ FireTV4kMaxの設定や使い方<br>
 ![](/mq1.jpg)<br>
 https://user-images.githubusercontent.com/1110752/220251615-ec5a4f91-b07d-4f1f-8247-2eefefbe22e1.mp4<br>
