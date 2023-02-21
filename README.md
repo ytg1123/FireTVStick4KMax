@@ -3,7 +3,8 @@ FireTVStick4KMax　SettingUp<br>
 
 ■ FireTV4kMaxの設定や使い方<br>
 ![](/mq1.jpg)
-![](/FireTV.mp4)
+https://github.com/ytg1123/FireTV.mp4<br>
+
 
 ※以下機能の拡張手順に関する記述
 1：WIFI不要の高速有線LAN接続
